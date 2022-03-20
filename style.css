@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+    color:crimson
+}
+.main{
+    border: 2px solid red;
+    width: 400px;
+    height: 300px;
+}
+.one{
+    width: 100px;
+    height: 100px;
+    color: aquamarine;
+    display: inline-block;
+}
+.two{
+    width: 100%;
+    height: 100px;
+    color: crimson;
+}
+.three{
+    width: 100px;
+    height: 100px;
+    color: blue;
+}
